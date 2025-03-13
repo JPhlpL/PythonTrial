@@ -1,0 +1,5 @@
+https://www.gyan.dev/ffmpeg/builds/#libraries
+https://modal.com/docs/guide/custom-container
+https://modal.com/docs/guide/environments
+
+Try use ffmpeg path in modal for executing ffmpeg function
